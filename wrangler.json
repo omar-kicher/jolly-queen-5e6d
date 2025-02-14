@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "jolly-queen-5e6d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ec3a42d8-82db-4252-b490-25b06fbd2725",
+      "database_name": "jolly-queen-5e6d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
